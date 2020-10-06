@@ -16,9 +16,9 @@ To make this project more organized, I moved the applications **(rest api, web c
 
 Here are the links to them
 
-- [REST API](https://github.com/EliasGcf/gobarber-api)
-- [Web client](https://github.com/EliasGcf/gobarber-web)
-- [Mobile client](https://github.com/EliasGcf/gobarber-mobile)
+- [REST API](https://github.com/Sam-kemit/gobarber-backend)
+- [Web client](https://github.com/Sam-kemit/gobarber-frontend)
+- [Mobile client](https://github.com/Sam-kemit/gobarber-mobile)
 
 ## 📝 License
 
